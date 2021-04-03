@@ -1,0 +1,125 @@
+
+
+
+
+html,
+body {
+	height: 100%;
+	font-family: "Cairo", sans-serif;
+	-webkit-font-smoothing: antialiased;
+	font-smoothing: antialiased;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+	margin: 0;
+	color: #111111;
+	font-weight: 400;
+	font-family: "Cairo", sans-serif;
+}
+
+h1 {
+	font-size: 70px;
+}
+
+h2 {
+	font-size: 36px;
+}
+
+h3 {
+	font-size: 30px;
+}
+
+h4 {
+	font-size: 24px;
+}
+
+h5 {
+	font-size: 18px;
+}
+
+h6 {
+	font-size: 16px;
+}
+
+p {
+	font-size: 16px;
+	font-family: "Cairo", sans-serif;
+	color: #6f6f6f;
+	font-weight: 400;
+	line-height: 26px;
+	margin: 0 0 15px 0;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+.top-header{
+    background: #2766cc;
+    height: 50px;
+}
+/* .top_header_left{
+    padding: 10px;
+} */
+
+.top_header_left ul li {
+	font-size: 20px;
+	color: #fff;
+	display: inline-block;
+	position: relative;
+    padding: 10px 10px 20px 10px;
+    padding-bottom: 20px;
+    font-size: 14px;
+    color: #fff;
+   
+    margin-right: 45px;
+    position: relative;
+}
+
+.logotitle{
+    position: relative;
+    left: 20px;
+    
+}
+.tag{
+    font-size: 14px;
+    color: #252525;
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 2px;
+    -webkit-transition: all, 0.3s;
+    -moz-transition: all, 0.3s;
+    -ms-transition: all, 0.3s;
+    -o-transition: all, 0.3s;
+    transition: all, 0.3s;
+
+   
+}
+
+.logotitle small{
+    position: relative;
+    top: -8px;
+    font-size: 14px;
+    color: #1c1c1c;
+   
+    margin-right: 45px;
+    position: relative;
+}
+
+#movedUer{
+    position: relative;
+    left: 39px
+}
